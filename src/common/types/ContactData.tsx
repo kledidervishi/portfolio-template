@@ -1,9 +1,9 @@
 import { Section } from "./Section.tsx";
 
-    type ContactData = {
-       headerOne: string;
-      descriptionOne: string;
-      sections: Section[];
-     };
+type ContactData = {
+  headerOne: string;
+  descriptionOne: string;
+  sections: Section[];
+};
 
-    export default ContactData;
+export default ContactData;
