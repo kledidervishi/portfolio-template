@@ -62,7 +62,7 @@ const App: FC = () => {
       projects: [
         {
           name: "Career Crush Back end",
-          description: "",
+          description: "Swipe your way to your dreams",
           languages: ["JavaScript", "AWS", "MongoDB", "GitHub Actions"],
           updatedAt: "October 2023",
           image: "https://images.codefoli.com/320-projects-image-428",
