@@ -1,0 +1,15 @@
+
+  We're so glad you chose Codefoli for your website needs!
+  
+  Below are the instructions
+  
+  1. Run in the terminal in this directory, 'npm install'. 
+  Be patient as this will take some time.
+  
+  2. Once you have done this, you can now run 'npm run dev' to see your app in a local environment, 
+  or, run npm run build to compile into HTML, CSS and JS.
+  
+  3. If you have opted into running 'npm run build', you will see a new directory called 'dist'.
+  Inside it will be an index.html, a css and js file. You can now deploy these files in whatever
+  web hoster you prefer, and voila! Your brand new website!
+  
