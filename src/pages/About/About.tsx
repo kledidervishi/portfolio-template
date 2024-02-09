@@ -86,32 +86,6 @@ const About: FC<{
               </div>
             </section>
           </div>
-          <animated.section
-            style={descriptionAnimation}
-            className="story mb-20"
-          >
-            <div className="container mx-auto my-20 max-w-screen-lg gap-5 px-5 md:grid md:grid-cols-2 md:items-start md:justify-between">
-              <div className="content-left">
-                <div className="flex justify-center md:justify-between">
-                  <h2 className="mb-8 text-center text-4xl font-bold transition-all  lg:text-left lg:text-6xl lg:leading-tight">
-                    {pageData.headerTwo}
-                  </h2>
-                </div>
-                <div className="image-wrapper relative mb-5 h-60 w-full sm:mx-auto sm:h-[200px] sm:w-[300px] md:mx-0 md:h-[200px] md:w-[400px] lg:h-72 lg:w-[500px]">
-                  <div className="h-full w-full overflow-hidden rounded-3xl border-2 border-black">
-                    <img
-                      className="h-full w-full object-cover"
-                      src={pageData.iconThree}
-                      alt="portfolio"
-                    />
-                  </div>
-                </div>
-                <p className="mb-5 text-2xl font-semibold transition-all">
-                  {pageData.descriptionTwo}
-                </p>
-              </div>
-            </div>
-          </animated.section>
           <Marquee
             items={userData.services.map((service) => {
               return service

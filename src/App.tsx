@@ -180,10 +180,8 @@ const App: FC = () => {
 
   const homeData = useMemo(
     () => ({
-      headerOne:
-        "I'm Samuel Dervishi, a Back end Developer from Albania",
-      descriptionOne:
-        "Hello! 👋 I'm Samuel a backend developer with a knack for problem-solving. Currently immersed in the world of Java development. Outside of coding, you'll find me on the basketball court and exploring the art of storytelling in cinema.",
+      headerOne: "Hello! 👋 I'm Samuel a Back-end Developer from Albania",
+      descriptionOne: "Currently immersed in the world of Java development.",
       profileImage:
         "https://assets.website-files.com/63360c0c2b86f80ba8b5421a/63407fbdc2d4ac5270385fd4_home-hero-image-paperfolio-webflow-template.svg",
       sections: [
@@ -201,17 +199,12 @@ const App: FC = () => {
 
   const aboutData = useMemo(
     () => ({
-      headerOne: "Hello, I'm Samuel Dervishi",
+      headerOne: "Hello! 👋",
       iconOne:
         "https://assets.website-files.com/63360c0c2b86f80ba8b5421a/633b443e2bb8e12b5faf51a7_about-hero-rigth-image-paperfolio-webflow-template.png",
       iconTwo:
         "https://assets.website-files.com/63360c0c2b86f80ba8b5421a/633b440128f648585c383865_about-hero-left-image-paperfolio-webflow-template.png",
-      iconThree:
-        "https://assets.website-files.com/63360c0c2b86f80ba8b5421a/633b52d3639fb5250039e574_my-story-image-paperfolio-webflow-template.png",
-      headerTwo: "My story as a programmer",
       descriptionOne:
-        "Hello! 👋 I'm Samuel a backend developer with a knack for problem-solving. Currently immersed in the world of Java development. Outside of coding, you'll find me on the basketball court and exploring the art of storytelling in cinema.",
-      descriptionTwo:
         "From a young age, I've been captivated by problem-solving, finding joy in dismantling gadgets and deciphering their inner workings. This passion drives me to constantly seek innovative strategies for today's digital challenges. When not immersed in problem-solving, I enjoy basketball, coding, and exploring diverse narratives through movies, always eager to connect with like-minded individuals and explore new opportunities.",
       sections: [
         {
@@ -245,7 +238,7 @@ const App: FC = () => {
     () => ({
       headerOne: "Projects",
       descriptionOne:
-        "Here are some of my recent projects. I've worked on a wide range of projects, from website and app design to branding and graphic design. Each project brings its own unique challenges and opportunities.",
+        "Here are some of my projects. I've worked on a wide range of projects, from website to app development and to designing stuff. Each project brings its own unique challenges and opportunities. While you won't find my Java projects displayed here, rest assured they're thriving in private repositories, safeguarded for their journey through complex back-end realms",
     }),
     []
   );
