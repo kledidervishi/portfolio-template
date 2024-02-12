@@ -46,5 +46,5 @@ This will generate an optimized version of your portfolio in the `dist` director
 
 ## Feedback
 
-If you have any feedback, questions, or suggestions for improvements, feel free to [open an issue](https://github.com/your-username/portfolioi.io/issues) or [submit a pull request](https://github.com/your-username/portfolioi.io/pulls). Your contributions are highly appreciated!
+If you have any feedback, questions, or suggestions for improvements, feel free to [open an issue](https://github.com/echomaverick/portfolio/issues) or [submit a pull request](https://github.com/echomaverick/portfolio/pulls). Your contributions are highly appreciated!
 
