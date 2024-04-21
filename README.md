@@ -1,7 +1,7 @@
 
 # Portfolio
 
-Welcome to my portfolio! This is a portfolio website template built using Vite.js and Tailwind CSS. With just a few simple steps, you can have your own portfolio up and running in no time.
+Welcome to my portfolio! This is a portfolio website template built using Vue.js SCSS. With just a few simple steps, you can have your own portfolio up and running in no time.
 
 ## Getting Started
 
@@ -28,7 +28,7 @@ To get started follow these simple steps:
    ```
 
 5. **Open in your Browser**:
-   Open your browser and go to `http://localhost:5173` to see the website live!
+   Open your browser and go to `http://localhost:5000` to see the website live!
 
 ## Customization
 
