@@ -1,7 +1,7 @@
 
 # Portfolio
 
-Welcome to my portfolio! This is a portfolio website template built using Vue.js SCSS. With just a few simple steps, you can have your own portfolio up and running in no time.
+This is a portfolio website template built using Vue.js SCSS. With just a few simple steps, you can have your own portfolio up and running in no time.
 
 ## Getting Started
 
