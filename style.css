@@ -27,14 +27,14 @@ body {
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 40px;
   font-weight: 400;
   margin-bottom: 1.5rem;
   color: hsl(216, 86%, 47%);
 }
 
 h2 {
-  font-size: 1.75rem;
+  font-size: 40px;
   font-weight: 400;
   margin-top: 3rem;
   margin-bottom: 1.5rem;
@@ -42,7 +42,8 @@ h2 {
 }
 
 .bio {
-  font-size: 1rem;
+  text-align: center;
+  font-size: 15px;
   margin-bottom: 2rem;
   padding-bottom: 2rem;
   border-bottom: 1px solid hsl(306, 10%, 19%);
